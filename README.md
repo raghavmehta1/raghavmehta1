@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @raghavmehta1
 - 👀 I’m interested in c++ dev
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me raghavmehta2022@gmail.com
 
 <!---
