@@ -9,4 +9,7 @@ You can click the Preview link to take a look at your changes.
 --->
 [![Raghavrag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raghavmehta1)](https://github.com/anuraghazra/github-readme-stats)
 [![raghavmehta1's GitHub | Dependencies](https://stats.quira.sh/raghavmehta1/dependencies?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=raghavmehta1)
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=raghavmehta1&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=raghavmehta)](https://github.com/madushadhanushka/github-readme)
