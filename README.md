@@ -11,3 +11,4 @@ You can click the Preview link to take a look at your changes.
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
 <img src="https://myreadme.vercel.app/api/embed/raghavmehta1?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+<a href="https://www.linkedin.com/in/raghav-mehta1/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
