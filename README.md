@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @raghavmehta1
-- 👀 I’m interested in c++ dev
-- 🌱 I’m currently learning C++
 - 📫 How to reach me raghavmehta2022@gmail.com
 
 <!---
@@ -12,4 +10,4 @@ You can click the Preview link to take a look at your changes.
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raghavmehta1&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=raghavmehta)](https://github.com/madushadhanushka/github-readme)
+<img src="https://myreadme.vercel.app/api/embed/raghavmehta1?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
