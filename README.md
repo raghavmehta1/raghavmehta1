@@ -9,5 +9,4 @@ You can click the Preview link to take a look at your changes.
 [![raghavmehta1's GitHub | Dependencies](https://stats.quira.sh/raghavmehta1/dependencies?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=raghavmehta1)
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raghavmehta1&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
-<img src="https://myreadme.vercel.app/api/embed/raghavmehta1?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 [![GitHub Streak](https://streak-stats.demolab.com/?user=raghavmehta1)](https://git.io/streak-stats)
